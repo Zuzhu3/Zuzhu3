@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zuzhu3
 - 👀 I’m interested in air quality and global warming data.
-- 🌱 I’m currently learning R and Phyton
+- 🌱 I use R and Phyton
 - 💞️ I’m looking to collaborate on environmental data management 
 - 📫 How to reach me: zupadilla@gmail.com
 
